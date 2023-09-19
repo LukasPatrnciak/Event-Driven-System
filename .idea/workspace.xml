@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3350b3bb-9846-4d5e-8bf0-1d368c23adce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/services/ConsoleUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/services/Slf4jUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/web/UserEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/web/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/event/Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/event/Publisher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/UserEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/UserInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/event/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/event/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/web/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lukaspatrnciak/eventsystem/demo/web/UserInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +79,7 @@
       <updated>1695075143419</updated>
       <workItem from="1695075144914" duration="336000" />
       <workItem from="1695075492404" duration="1232000" />
-      <workItem from="1695144128525" duration="5934000" />
+      <workItem from="1695144128525" duration="6627000" />
     </task>
     <servers />
   </component>

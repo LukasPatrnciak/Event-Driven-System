@@ -11,7 +11,7 @@ public class UserInterface implements Publisher<User> {
     private Set<Listener<User>> listeners; // Mnozina listenerov
 
     public UserInterface() {
-        listeners = new HashSet<Listener<User>>();
+        listeners = new HashSet<>();
     }
 
     public void userInput(User user) {
@@ -22,7 +22,7 @@ public class UserInterface implements Publisher<User> {
         }
     }
 
-    public void addListener(Listener<User>listener) {
+    public void addListener(Listener<User> listener) {
         listeners.add(listener);
     }
 }
